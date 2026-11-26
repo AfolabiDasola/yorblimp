@@ -83,6 +83,6 @@ pip install -e ".[dev]"
 pytest
 ```
 
-## Licence and citation
+## Licence
 
-To be added before release.
+Code: MIT (see LICENSE). A licence for the data will be added when the pairs are released.
